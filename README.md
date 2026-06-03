@@ -1,18 +1,13 @@
-## Hi there 👋
-<img width="560" height="284" alt="background_profile" src="https://github.com/user-attachments/assets/15a3f03c-1ae1-4c34-8e16-9c58e6ac8e62" />
+# Hi there 👋
+<img width="1584" height="396" alt="background_profile" src="https://github.com/user-attachments/assets/8e6653c1-a3be-410b-9e46-f9f1dc27eb75" />
 
-# Tan Abraham
-<!--
-**astan-hue/astan-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Tan Abraham
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+- 🔭make an impact in society, by uplifting the livelihood of regular people
+
+- ⚡Future Entrepreneur and Mentor
